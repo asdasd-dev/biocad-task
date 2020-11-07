@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/biocad-task/static/css/main.bbd7dba8.chunk.css",
+    "main.js": "/biocad-task/static/js/main.a979ac16.chunk.js",
+    "main.js.map": "/biocad-task/static/js/main.a979ac16.chunk.js.map",
+    "runtime-main.js": "/biocad-task/static/js/runtime-main.44782b2b.js",
+    "runtime-main.js.map": "/biocad-task/static/js/runtime-main.44782b2b.js.map",
+    "static/js/2.ad113f99.chunk.js": "/biocad-task/static/js/2.ad113f99.chunk.js",
+    "static/js/2.ad113f99.chunk.js.map": "/biocad-task/static/js/2.ad113f99.chunk.js.map",
+    "static/js/3.236d3595.chunk.js": "/biocad-task/static/js/3.236d3595.chunk.js",
+    "static/js/3.236d3595.chunk.js.map": "/biocad-task/static/js/3.236d3595.chunk.js.map",
+    "index.html": "/biocad-task/index.html",
+    "static/css/main.bbd7dba8.chunk.css.map": "/biocad-task/static/css/main.bbd7dba8.chunk.css.map",
+    "static/js/2.ad113f99.chunk.js.LICENSE.txt": "/biocad-task/static/js/2.ad113f99.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/biocad-task/static/media/TTNorms-ThinItalic.ffc52b11.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44782b2b.js",
+    "static/js/2.ad113f99.chunk.js",
+    "static/css/main.bbd7dba8.chunk.css",
+    "static/js/main.a979ac16.chunk.js"
+  ]
+}
