@@ -1,0 +1,48 @@
+.FilterDevices {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.16px;
+    text-align: left;
+    color: #8C8C8C;
+
+    p {
+        margin: 0 0 1em 0;
+    }
+
+    form {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    input {
+        &[type="submit"] {
+            background-color: #353535;
+            color: white;
+            border-radius: 3px;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 24px;
+            width: 90px;
+            height: 40px;
+            box-shadow: none;
+            border: none;
+        }
+
+        &[type="text"] {
+            background: #FFFFFF;
+            border: 1px solid #E9E9E9;
+            width: 210px;
+            height: 30px;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 24px;
+            margin-right: 18px;
+            padding: 0 10px 0 12px;
+        }
+    }
+}

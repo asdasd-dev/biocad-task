@@ -1,0 +1,22 @@
+.DeviceInfo {
+    list-style-type: none;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f7f7f7;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+
+    .info-name {
+        color: #8C8C8C
+    }
+
+    .info-description {
+        text-decoration: none;
+    }
+
+    li {
+        margin-bottom: .5em;
+    }
+}

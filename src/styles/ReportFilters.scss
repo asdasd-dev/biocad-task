@@ -1,0 +1,41 @@
+.ReportFilters {
+    display: inline-block;
+    select {
+        background: #FFFFFF;
+        border: 1px solid #E9E9E9;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+        width: 220px;
+        height: 30px;
+        padding-left: 12px;
+    }
+
+    input {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+        margin-right: 12px;
+        vertical-align: middle;
+    }
+
+    button {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 24px;
+        background: #4990E2;
+        border-radius: 3px;
+        border: none;
+        color: white;
+        width: 180px;
+        height: 40px;
+        margin: 50px 0 10px;
+    }
+
+    label {
+        vertical-align: middle;
+    }
+}

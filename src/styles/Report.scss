@@ -1,0 +1,49 @@
+.Report {
+    font-size: 13px;
+    line-height: 15px;
+    background: #FFFFFF;
+    border: 1px dashed #939DA6;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+
+    .container {
+        padding: 40px;
+    }
+
+    p {
+        font-size: 16px;
+        font-weight: bold;
+        line-height: 19px;
+        color: #353535;
+    }
+
+    table {
+        text-align: left;
+        border-collapse: collapse; 
+    }
+
+    tr:not(:first-child):not(:last-child) {
+        border-bottom: 1px solid #E9E9E9;;
+    }
+
+    th {
+        color: #939DA6;
+        padding: 20px 40px 0 0;
+        font-weight: normal;
+    }
+
+    td {
+        vertical-align: baseline;
+        padding: 20px 40px 20px 0;
+
+        &:first-child {
+            font-size: 16px;
+            line-height: 19px;
+        }
+    }
+
+    img {
+        margin-left: 20px;
+        vertical-align: middle;
+    }
+}
